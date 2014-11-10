@@ -7,6 +7,7 @@
   <sounds name="sound"/>
   <sprites name="sprites">
     <sprite>sprites\sprite_ship</sprite>
+    <sprite>sprites\sprite_ship2</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
