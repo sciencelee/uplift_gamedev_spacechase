@@ -7,6 +7,7 @@
   <sounds name="sound"/>
   <sprites name="sprites">
     <sprite>sprites\sprite_ship</sprite>
+    <sprite>sprites\sprite_bullet</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background_space</background>
@@ -14,12 +15,13 @@
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\object_ship</object>
+    <object>objects\object_bullet</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room_starter</room>
   </rooms>
   <constants number="2">
-    <constant name="GM_build_date">41955.9681715741</constant>
+    <constant name="GM_build_date">41955.9895359838</constant>
     <constant name="GM_version">'1.0.0.0'</constant>
   </constants>
   <help>
