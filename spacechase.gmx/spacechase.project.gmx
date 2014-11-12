@@ -10,17 +10,16 @@
   </sprites>
   <backgrounds name="background">
     <background>background\background_space</background>
-    <background>background\background1</background>
   </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\object_ship</object>
   </objects>
   <rooms name="rooms">
-    <room>rooms\room0</room>
+    <room>rooms\room_starter</room>
   </rooms>
   <constants number="2">
-    <constant name="GM_build_date">41955.9457567245</constant>
+    <constant name="GM_build_date">41955.9681715741</constant>
     <constant name="GM_version">'1.0.0.0'</constant>
   </constants>
   <help>
