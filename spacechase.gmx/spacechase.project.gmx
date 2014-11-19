@@ -10,6 +10,8 @@
     <sprite>sprites\sprite_bullet</sprite>
     <sprite>sprites\sprite_player_ship</sprite>
     <sprite>sprites\sprite_alien_mother_ship</sprite>
+    <sprite>sprites\sprite_explosion</sprite>
+    <sprite>sprites\sprite_health</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background_space</background>
