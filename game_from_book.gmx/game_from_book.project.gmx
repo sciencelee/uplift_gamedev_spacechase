@@ -13,8 +13,8 @@
     <sprite>sprites\sprite_island1</sprite>
     <sprite>sprites\sprite_island2</sprite>
     <sprite>sprites\sprite_island3</sprite>
-    <sprite>sprites\sprite_plane1</sprite>
-    <sprite>sprites\sprite_plane2</sprite>
+    <sprite>sprites\sprite_player1</sprite>
+    <sprite>sprites\sprite_player2</sprite>
     <sprite>sprites\sprite_bullet</sprite>
     <sprite>sprites\sprite_enemy_basic</sprite>
     <sprite>sprites\sprite_explosion1</sprite>
